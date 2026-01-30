@@ -1,0 +1,8 @@
+Concept
+Building a Network Intrusion Detection System
+Flags Network activities as Attack and Normal of collected summarised connection data(binary classification problem)
+Supervised Classification 
+Recall matters more than accuracy
+data pre-processing: Basically encoding categorical features, scaling numerical values, and converting labels into a binary format.Scaling helps for consistency and avoiding biases for the model.
+
+
